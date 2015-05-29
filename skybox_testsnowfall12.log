@@ -1,0 +1,199 @@
+
+
+
+materialPath: e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\materials
+Loading E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7015 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 12
+Reduced 7 texdatas to 7 (203 bytes to 203)
+Writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.prt
+   7 portalclusters
+   7 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 37
+Average clusters visible: 5
+Building PAS...
+Average clusters audible: 5
+visdatasize:74  compressed from 112
+writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+104 faces
+216166 square feet [31127946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+104 patches before subdivision
+6190 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 228602, max 215
+transfer lists:   1.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0169 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 19/8192          228/98304    ( 0.2%) 
+brushsides             114/65536         912/524288   ( 0.2%) 
+planes                 102/65536        2040/1310720  ( 0.2%) 
+vertexes               187/65536        2244/786432   ( 0.3%) 
+nodes                   71/65536        2272/2097152  ( 0.1%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  104/65536        5824/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               22/65536        1232/3670016  ( 0.0%) 
+leaves                  74/65536        2368/2097152  ( 0.1%) 
+leaffaces              118/65536         236/131072   ( 0.2%) 
+leafbrushes             53/65536         106/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              548/512000       2192/2048000  ( 0.1%) 
+edges                  317/256000       1268/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              2/32768          20/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            30/65536          60/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      469848/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          74/16777216 ( 0.0%) 
+entdata               [variable]        6173/393216   ( 1.6%) 
+LDR ambient table       74/65536         296/262144   ( 0.1%) 
+HDR ambient table       74/65536         296/262144   ( 0.1%) 
+LDR leaf ambient        23/65536         644/1835008  ( 0.0%) 
+HDR leaf ambient        74/65536        2072/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/400      ( 0.3%) 
+pakfile               [variable]      105715/0        ( 0.0%) 
+physics               [variable]        7015/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 252
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+104 faces
+216166 square feet [31127946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+104 patches before subdivision
+6190 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 228602, max 215
+transfer lists:   1.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0104 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 19/8192          228/98304    ( 0.2%) 
+brushsides             114/65536         912/524288   ( 0.2%) 
+planes                 102/65536        2040/1310720  ( 0.2%) 
+vertexes               187/65536        2244/786432   ( 0.3%) 
+nodes                   71/65536        2272/2097152  ( 0.1%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  104/65536        5824/3670016  ( 0.2%) 
+hdr faces              104/65536        5824/3670016  ( 0.2%) 
+origfaces               22/65536        1232/3670016  ( 0.0%) 
+leaves                  74/65536        2368/2097152  ( 0.1%) 
+leaffaces              118/65536         236/131072   ( 0.2%) 
+leafbrushes             53/65536         106/131072   ( 0.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges              548/512000       2192/2048000  ( 0.1%) 
+edges                  317/256000       1268/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              2/32768          20/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            30/65536          60/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      469848/0        ( 0.0%) 
+HDR lightdata         [variable]      469848/0        ( 0.0%) 
+visdata               [variable]          74/16777216 ( 0.0%) 
+entdata               [variable]        6173/393216   ( 1.6%) 
+LDR ambient table       74/65536         296/262144   ( 0.1%) 
+HDR ambient table       74/65536         296/262144   ( 0.1%) 
+LDR leaf ambient        23/65536         644/1835008  ( 0.0%) 
+HDR leaf ambient        23/65536         644/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/400      ( 0.3%) 
+pakfile               [variable]      105715/0        ( 0.0%) 
+physics               [variable]        7015/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 252
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\skybox_testSnowfall12.bsp
+4 seconds elapsed

@@ -1,0 +1,43 @@
+
+
+
+materialPath: e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\materials
+Loading E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\poolhouse84.vmf
+Patching WVT material: maps/poolhouse84/nature/blenddirtgrass008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (1938, 3254, 2912)
+env_cubemap pointing at deleted brushside near (1938, 3254, 2912)
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity logic_choreographed_scene (4296.00 3824.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (730746 bytes)
+Error! To use model "models/props_c17/tv_monitor01_screen.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_c17/tv_monitor01_screen.mdl"!
+Error! To use model "models/sims/gm_livingchair.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/sims/gm_livingchair.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5478 texinfos to 2379
+Reduced 39 texdatas to 30 (1164 bytes to 837)
+Writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\poolhouse84.bsp
+7 seconds elapsed

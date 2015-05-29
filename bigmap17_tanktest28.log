@@ -1,0 +1,57 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\CrimeWars2013\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest28.vmf
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest28.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1030812 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1120 texinfos to 901
+Reduced 20 texdatas to 19 (509 bytes to 488)
+Writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest28.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest28.bsp
+reading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest28.prt
+3797 portalclusters
+10041 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\Program Files (x86)\Steam\SteamApps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest28.bsp
+No vis information, direct lighting only.
+26868 faces
+1 degenerate faces
+39348788 square feet [5666225664.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5693 sec>
+0...1..

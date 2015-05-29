@@ -1,0 +1,321 @@
+
+
+
+materialPath: e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\materials
+Loading E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.vmf
+material "tools/toolsnodraw" not found.
+Material not found!: TOOLS/TOOLSNODRAW
+material "dev/dev_blendmeasure" not found.
+Material not found!: DEV/DEV_BLENDMEASURE
+material "vgui/screens/vgui_button_hover" not found.
+Material not found!: VGUI/SCREENS/VGUI_BUTTON_HOVER
+material "tools/toolsskip" not found.
+Material not found!: TOOLS/TOOLSSKIP
+material "tools/toolshint" not found.
+Material not found!: TOOLS/TOOLSHINT
+material "halflife/generic015p" not found.
+Material not found!: HALFLIFE/GENERIC015P
+material "wood/woodwall043a" not found.
+Material not found!: WOOD/WOODWALL043A
+material "metal/citadel_tilefloor016a" not found.
+Material not found!: METAL/CITADEL_TILEFLOOR016A
+material "vehicle/rubbertrainfloor001a" not found.
+Material not found!: VEHICLE/RUBBERTRAINFLOOR001A
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/citadel_tilefloor016a_cheap_-1016_-167_-6676.vtf": cached version doesn't exist
+material "brick/brickwall053a" not found.
+Material not found!: BRICK/BRICKWALL053A
+material "dev/dev_prisontvoverlay002" not found.
+Material not found!: DEV/DEV_PRISONTVOVERLAY002
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/metal_gibs_289_183_-1898.vtf": cached version doesn't exist
+material "dev/dev_waterbeneath2" not found.
+Material not found!: DEV/DEV_WATERBENEATH2
+material "dev/reflectivity_90b" not found.
+Material not found!: DEV/REFLECTIVITY_90B
+material "metal/metalfence007a" not found.
+Material not found!: METAL/METALFENCE007A
+material "metal/metalcombinegrate001a" not found.
+Material not found!: METAL/METALCOMBINEGRATE001A
+material "stone/stonewall006a" not found.
+Material not found!: STONE/STONEWALL006A
+material "tools/toolsinvisibleladder" not found.
+Material not found!: TOOLS/TOOLSINVISIBLELADDER
+material "halflife/generic027" not found.
+Material not found!: HALFLIFE/GENERIC027
+material "metal/metalpipe010a" not found.
+Material not found!: METAL/METALPIPE010A
+material "brick/brickwall009a" not found.
+Material not found!: BRICK/BRICKWALL009A
+material "tools/toolstrigger" not found.
+Material not found!: TOOLS/TOOLSTRIGGER
+material "props/signcaution002a" not found.
+Material not found!: PROPS/SIGNCAUTION002A
+material "building_template/building_template002h" not found.
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE002H
+material "dev/reflectivity_70" not found.
+Material not found!: DEV/REFLECTIVITY_70
+material "dev/dev_measurewall01a" not found.
+Material not found!: DEV/DEV_MEASUREWALL01A
+material "dev/dev_bumptest" not found.
+Material not found!: DEV/DEV_BUMPTEST
+material "props/hazardstrip001a" not found.
+Material not found!: PROPS/HAZARDSTRIP001A
+material "dev/dev_lowermetaldoor02a" not found.
+Material not found!: DEV/DEV_LOWERMETALDOOR02A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity npc_zombie7 (-1699.58 2963.24 -622.49) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 5120.0 646.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4608.0 646.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 3072.0 646.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 646.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 4592.0 -859.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 4592.0 879.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 5104.0 646.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 5120.0 646.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_day01_01rt" not found.
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70634 bytes)
+Error loading studio model "models/props_c17/gaspipes001a.mdl"!
+Error loading studio model "models/props_buildings/watertower_002a.mdl"!
+Error! To use model "models/turbine/turbine6.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/turbine/turbine6.mdl"!
+Error loading studio model ""!
+Error loading studio model "models/props_c17/metalladder001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 282 texinfos to 213
+Reduced 45 texdatas to 43 (1185 bytes to 1142)
+Writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.bsp
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.prt
+LoadPortals: couldn't read e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.bsp
+No vis information, direct lighting only.
+1979 faces
+2290753 square feet [329868512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2089 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                182/8192         2184/98304    ( 2.2%) 
+brushsides            1155/65536        9240/524288   ( 1.8%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              2570/65536       30840/786432   ( 3.9%) 
+nodes                 1193/65536       38176/2097152  ( 1.8%) 
+texinfos               213/12288       15336/884736   ( 1.7%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1979/65536      110824/3670016  ( 3.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              715/65536       40040/3670016  ( 1.1%) 
+leaves                1224/65536       39168/2097152  ( 1.9%) 
+leaffaces             2305/65536        4610/131072   ( 3.5%) 
+leafbrushes            435/65536         870/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            11711/512000      46844/2048000  ( 2.3%) 
+edges                 6376/256000      25504/1024000  ( 2.5%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             88/32768         880/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1329/65536        2658/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3109000/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       58950/393216   (15.0%) 
+LDR ambient table     1224/65536        4896/262144   ( 1.9%) 
+HDR ambient table     1224/65536        4896/262144   ( 1.9%) 
+LDR leaf ambient      3640/65536      101920/1835008  ( 5.6%) 
+HDR leaf ambient      1224/65536       34272/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2104     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70634/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4895
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.bsp
+No vis information, direct lighting only.
+1979 faces
+2290753 square feet [329868512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2322 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                182/8192         2184/98304    ( 2.2%) 
+brushsides            1155/65536        9240/524288   ( 1.8%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              2570/65536       30840/786432   ( 3.9%) 
+nodes                 1193/65536       38176/2097152  ( 1.8%) 
+texinfos               213/12288       15336/884736   ( 1.7%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1979/65536      110824/3670016  ( 3.0%) 
+hdr faces             1979/65536      110824/3670016  ( 3.0%) 
+origfaces              715/65536       40040/3670016  ( 1.1%) 
+leaves                1224/65536       39168/2097152  ( 1.9%) 
+leaffaces             2305/65536        4610/131072   ( 3.5%) 
+leafbrushes            435/65536         870/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            11711/512000      46844/2048000  ( 2.3%) 
+edges                 6376/256000      25504/1024000  ( 2.5%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights         43/8192         3784/720896   ( 0.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             88/32768         880/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1329/65536        2658/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3109000/0        ( 0.0%) 
+HDR lightdata         [variable]     3109000/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       58950/393216   (15.0%) 
+LDR ambient table     1224/65536        4896/262144   ( 1.9%) 
+HDR ambient table     1224/65536        4896/262144   ( 1.9%) 
+LDR leaf ambient      3640/65536      101920/1835008  ( 5.6%) 
+HDR leaf ambient      7029/65536      196812/1835008  (10.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2104     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70634/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4895
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za2.bsp
+20 seconds elapsed

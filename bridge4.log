@@ -1,0 +1,23 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\CrimeWars2013\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge4.vmf
+Error! Variable "$refractamount" is multiply defined in material "temple_lava/3_4"!
+Error! Variable "$refractamount" is multiply defined in material "temple_lava/3_4"!
+Brush 150589: bounds out of range
+Brush 150589: no visible sides on brush
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_water_analog (-56895.80 6096.07 -15697.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (6)
+bmodel 553 has no head node (class 'func_water_analog', targetname '')

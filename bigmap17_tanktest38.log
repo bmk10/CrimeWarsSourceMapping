@@ -1,0 +1,31 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\CrimeWars2013\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest38.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest38.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (765726 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1899 texinfos to 1160
+Reduced 17 texdatas to 17 (428 bytes to 428)
+Writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap17_tanktest38.bsp
+2 seconds elapsed

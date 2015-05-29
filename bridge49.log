@@ -1,0 +1,263 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\Crimewars2013\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge49.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "plaster/plasterwall011b" not found.
+Material not found!: PLASTER/PLASTERWALL011B
+material "wood/woodfence001" not found.
+Material not found!: WOOD/WOODFENCE001
+material "plaster/plasterwall014b" not found.
+Material not found!: PLASTER/PLASTERWALL014B
+material "stone/stonefloor003" not found.
+Material not found!: STONE/STONEFLOOR003
+material "plaster/wallpaper004" not found.
+Material not found!: PLASTER/WALLPAPER004
+material "stone/stonewall008" not found.
+Material not found!: STONE/STONEWALL008
+material "wood/wood_halftimber003" not found.
+Material not found!: WOOD/WOOD_HALFTIMBER003
+material "/rain" not found.
+Material not found!: /RAIN
+material "plaster/plasterwall011a" not found.
+Material not found!: PLASTER/PLASTERWALL011A
+material "plaster/plasterwall014" not found.
+Material not found!: PLASTER/PLASTERWALL014
+material "plaster/plasterwall011" not found.
+Material not found!: PLASTER/PLASTERWALL011
+material "wood/woodfloor03" not found.
+Material not found!: WOOD/WOODFLOOR03
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+Patching WVT material: maps/bridge49/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/bridge49/nature/blendgroundtoconcrete003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge49.lin
+Areaportal leak ! File: D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge49.lin 
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+
+Brush 183134: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Occluder "occ_allied_barn1" straddles multiple areas. This is invalid!
+Occluder "occ_allied_barn1" straddles multiple areas. This is invalid!
+Occluder "occ_allied_barn1" straddles multiple areas. This is invalid!
+Occluder "occ_allied_barn1" straddles multiple areas. This is invalid!
+Occluder "occ_allied_barn1" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 224 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge49.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "overlays/overlay_crop001" not found.
+material "overlays/overlay_crop001a" not found.
+unrecognized conditional test GPU<2?$BLENDFRAMES in particle/fire_burning_character/fire_screen_crop
+material "overlays/crater_decal" not found.
+material "overlays/hotel_adv" not found.
+material "overlays/adv_9" not found.
+material "overlays/adv_5" not found.
+material "overlays/adv_8" not found.
+material "overlays/adv_6" not found.
+material "overlays/adv_4" not found.
+material "overlays/adv_7" not found.
+material "overlays/adv_15" not found.
+material "overlays/decal_hay001" not found.
+material "overlays/adv_18" not found.
+material "decals/rubbledecal001" not found.
+material "decals/treeroots" not found.
+material "decals/sandbagoverlay01" not found.
+material "decals/trashdecal01b" not found.
+material "decals/reedmat001" not found.
+material "decals/chip018" not found.
+material "decals/shelldebris" not found.
+material "decals/rationpapers03" not found.
+material "decals/rationpapers04" not found.
+material "decals/mapdecal02" not found.
+material "decals/fr_poster01" not found.
+material "decals/dirt_decal_01" not found.
+material "decals/roundwindowdecal02" not found.
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3790147 bytes)
+Error loading studio model ""!
+Error! prop_static using model "models/props_cans/barqcan1a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_cans/barqcan1a.mdl"!
+Error! prop_static using model "models/props_silo/barrelwarning.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_silo/barrelwarning.mdl"!
+Error! prop_static using model "models/props_interiors/vendingmachinesoda01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/vendingmachinesoda01a.mdl"!
+Error! To use model "models/foodnhouseholditems/mcdburgerboxempty.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/foodnhouseholditems/mcdburgerboxempty.mdl"!
+Error! To use model "models/bgb17.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bgb17.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_monitor.mdl"!
+Error! prop_static using model "models/props/cs_office/sierramist01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/sierramist01.mdl"!
+Error! To use model "models/foodnhouseholditems/toffifee.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/foodnhouseholditems/toffifee.mdl"!
+Error! To use model "models/fallout new vegas/craps_table.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/fallout new vegas/craps_table.mdl"!
+Error! To use model "models/haxxer/me2_props/crate_large.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/haxxer/me2_props/crate_large.mdl"!
+Error! To use model "models/haxxer/normandy/mainframe.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/haxxer/normandy/mainframe.mdl"!
+Error loading studio model "models/props_furniture/lights_overhead.mdl"!
+Error loading studio model "models/props_furniture/ceiling_lantern1_on.mdl"!
+Error loading studio model "models/mapmodels/barbed_wire.mdl"!
+Error loading studio model "models/props_fortifications/hedgehog_large1.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line1.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line1_tall.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line2_tall.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line2.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small1_broken.mdl"!
+Error loading studio model "models/props_doors/doorway16_stone.mdl"!
+Error loading studio model "models/props_doors/doorway16_wood.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small3_broken.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small1.mdl"!
+Error loading studio model "models/props_doors/flash_arch1.mdl"!
+Error loading studio model "models/props_doors/flash_arch2.mdl"!
+Error loading studio model "models/props_doors/doorway16_stone_arched.mdl"!
+Error loading studio model "models/props_urban/arch_italian_stone_01.mdl"!
+Error loading studio model "models/props_exteriors/dormer3.mdl"!
+Error loading studio model "models/props_doors/doorframe_06a.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large2_broken.mdl"!
+Error loading studio model "models/props_debris/flash_destroyed_foundation1.mdl"!
+Error loading studio model "models/props_debris/flash_destroyed_foundation2.mdl"!
+Error loading studio model "models/props_debris/flash_destroyed_foundation3.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small4_broken.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small4_destroyed.mdl"!
+Error loading studio model "models/props_exteriors/chimney4.mdl"!
+Error loading studio model "models/props_exteriors/chimneytop_64by24.mdl"!
+Error loading studio model "models/props_exteriors/dormer1.mdl"!
+Error loading studio model "models/props_foliage/hedge_256_128high.mdl"!
+Error loading studio model "models/props_foliage/hedge_128_128high.mdl"!
+Error loading studio model "models/props_exteriors/chimney5.mdl"!
+Error loading studio model "./models/props_doors/doorway16_wood.mdl"!
+Error loading studio model "./models/props_doors/doorway16_stone_arched.mdl"!
+Error loading studio model "models/props_furniture/fireplace2.mdl"!
+Error loading studio model "models/props_furniture/fireplace1.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small3_shuttered.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small3_closed.mdl"!
+Error loading studio model "models/props_exteriors/chimney1.mdl"!
+Error loading studio model "models/props_windows/ava_church_circular_window.mdl"!
+Error loading studio model "models/props_exteriors/chimney2.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large1_broken.mdl"!
+Error loading studio model "models/props_exteriors/chimneytop_64by48.mdl"!
+Error loading studio model "models/props_exteriors/dormer2.mdl"!
+Error loading studio model "models/props_furniture/piano.mdl"!
+Error loading studio model "models/props_furniture/shelf1.mdl"!
+Error loading studio model "models/props_urban/phonepole1.mdl"!
+Error loading studio model "models/props_urban/phonepole1_stump.mdl"!
+Error loading studio model "models/props_urban/phonepole1_broken.mdl"!
+Error loading studio model "models/props_urban/flash_fence_post.mdl"!
+Error loading studio model "models/props_crates/static_crate_48.mdl"!
+Error loading studio model "models/props_crates/static_crate_40.mdl"!
+Error loading studio model "models/props_crates/static_crate_64.mdl"!
+Error loading studio model "models/props_urban/lights_streetlight01.mdl"!
+Error loading studio model "models/props_urban/normandy_sign_pole1.mdl"!
+Error loading studio model "models/props_urban/normandy_sign_pole2.mdl"!
+Error loading studio model "models/props_windows/windowframe_destroyed2a.mdl"!
+Error loading studio model "models/props_furniture/cupboard1.mdl"!
+Error loading studio model "models/props_furniture/drawer1.mdl"!
+Error loading studio model "models/props_furniture/dresser1.mdl"!
+Error loading studio model "models/props_furniture/lamp1.mdl"!
+Error loading studio model "models/props_urban/flash_fence_planks_16.mdl"!
+Error loading studio model "models/props_urban/flash_fence_planks_8.mdl"!
+Error loading studio model "models/props_urban/flash_fence_planks.mdl"!
+Error loading studio model "models/props_foliage/hedge_128.mdl"!
+Error loading studio model "models/props_foliage/hedge_medium.mdl"!
+Error loading studio model "models/props_vehicles/tiger_tank_wrecked1.mdl"!
+Error loading studio model "models/props_doors/dod_door1.mdl"!
+Error loading studio model "models/props_furniture/bakery_counter1.mdl"!
+Error loading studio model "models/props_furniture/bakery_counter2.mdl"!
+Error loading studio model "models/props_urban/signs_shops_frame01.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large1_closed.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large1_shuttered.mdl"!
+Error loading studio model "models/props_furniture/toilet1.mdl"!
+Error loading studio model "models/props_furniture/sink1.mdl"!
+Error loading studio model "models/props_furniture/bakery_oven.mdl"!
+Error loading studio model "models/props_furniture/bakery_counter3.mdl"!
+Error loading studio model "models/props_exteriors/storefront1.mdl"!
+Error loading studio model "models/props_misc/barn_crane.mdl"!
+Error loading studio model "models/props_exteriors/roofsup192.mdl"!
+Error loading studio model "models/props_furniture/cafe_cabinet1.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large3_broken.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_storefront1.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large3.mdl"!
+Error loading studio model "models/props_furniture/cafe_bar1.mdl"!
+Error loading studio model "models/props_furniture/inn_frontdesk1.mdl"!
+Error loading studio model "models/props_furniture/inn_mailbox1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_cabinet1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_countertop1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_oven1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_vent1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_shelf1.mdl"!
+Error loading studio model "models/props_furniture/inn_banister1.mdl"!
+Error loading studio model "models/props_furniture/inn_chandelier1.mdl"!
+Error loading studio model "models/props_debris/flash_inn_roof.mdl"!
+Error loading studio model "models/props_debris/flash_inn_wall.mdl"!
+Error loading studio model "models/props_debris/flash_inn_ceiling.mdl"!
+Error loading studio model "models/props_debris/wall_rubble1.mdl"!
+Error loading studio model "models/props_debris/wall_rubble2.mdl"!
+Error loading studio model "models/props_debris/edge_rubble1.mdl"!
+Error loading studio model "models/props_debris/floor_rubble1.mdl"!
+Error loading studio model "models/props_debris/corner_rubble1.mdl"!
+Error loading studio model "models/props_debris/corner_rubble2.mdl"!
+Error loading studio model "models/props_debris/floor_rubble2.mdl"!
+Error loading studio model "models/props_debris/floor_rubble3.mdl"!
+Error loading studio model "models/props_italian/winerack_small.mdl"!
+Error loading studio model "models/props_exteriors/storefront2.mdl"!
+Error loading studio model "models/props_misc/stables-1.mdl"!
+Error loading studio model "models/props_foliage/hedge_256.mdl"!
+Error loading studio model "models/props_misc/shelf-2.mdl"!
+Error loading studio model "models/props_misc/reins.mdl"!
+Error loading studio model "models/props_misc/saddle-1.mdl"!
+Error loading studio model "models/props_urban/signs_shops_frame02.mdl"!
+Error loading studio model "models/props_urban/signs_shops_frame03.mdl"!
+Error loading studio model "models/props_furniture/cafe_barstool1.mdl"!
+Error loading studio model "models/props_furniture/ceiling_lantern1_off.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7511 texinfos to 4251
+Reduced 462 texdatas to 351 (20454 bytes to 14752)
+Writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge49.bsp
+7 seconds elapsed

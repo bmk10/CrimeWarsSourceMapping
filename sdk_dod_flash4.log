@@ -1,0 +1,215 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\Crimewars2013\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\sdk_dod_flash4.vmf
+material "plaster/plasterwall011b" not found.
+Material not found!: PLASTER/PLASTERWALL011B
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "wood/woodfence001" not found.
+Material not found!: WOOD/WOODFENCE001
+material "plaster/plasterwall014b" not found.
+Material not found!: PLASTER/PLASTERWALL014B
+material "stone/stonefloor003" not found.
+Material not found!: STONE/STONEFLOOR003
+material "plaster/wallpaper004" not found.
+Material not found!: PLASTER/WALLPAPER004
+material "stone/stonewall008" not found.
+Material not found!: STONE/STONEWALL008
+material "ground/flash_ground_skyboxtrees" not found.
+Material not found!: GROUND/FLASH_GROUND_SKYBOXTREES
+material "wood/wood_halftimber003" not found.
+Material not found!: WOOD/WOOD_HALFTIMBER003
+material "/rain" not found.
+Material not found!: /RAIN
+material "plaster/plasterwall011a" not found.
+Material not found!: PLASTER/PLASTERWALL011A
+material "plaster/plasterwall014" not found.
+Material not found!: PLASTER/PLASTERWALL014
+material "ground/flash_ground_skybox" not found.
+Material not found!: GROUND/FLASH_GROUND_SKYBOX
+material "plaster/plasterwall011" not found.
+Material not found!: PLASTER/PLASTERWALL011
+material "wood/woodfloor03" not found.
+Material not found!: WOOD/WOODFLOOR03
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+Patching WVT material: maps/sdk_dod_flash4/nature/blendgroundtoconcrete003_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 252 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+done (0)
+writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\sdk_dod_flash4.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_dod_01_hdrrt" not found.
+Can't load skybox file skybox/sky_dod_01_hdr to build the default cubemap!
+Can't load skybox file skybox/sky_dod_01_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "overlays/overlay_crop001" not found.
+material "overlays/overlay_crop001a" not found.
+unrecognized conditional test GPU<2?$BLENDFRAMES in particle/fire_burning_character/fire_screen_crop
+material "overlays/crater_decal" not found.
+material "overlays/hotel_adv" not found.
+material "overlays/adv_9" not found.
+material "overlays/adv_5" not found.
+material "overlays/adv_8" not found.
+material "overlays/adv_6" not found.
+material "overlays/adv_4" not found.
+material "overlays/adv_7" not found.
+material "overlays/adv_15" not found.
+material "overlays/decal_hay001" not found.
+material "overlays/adv_18" not found.
+material "decals/rubbledecal001" not found.
+material "decals/treeroots" not found.
+material "decals/sandbagoverlay01" not found.
+material "decals/trashdecal01b" not found.
+material "decals/reedmat001" not found.
+material "decals/chip018" not found.
+material "decals/shelldebris" not found.
+material "decals/rationpapers03" not found.
+material "decals/rationpapers04" not found.
+material "decals/mapdecal02" not found.
+material "decals/fr_poster01" not found.
+material "decals/dirt_decal_01" not found.
+material "decals/roundwindowdecal02" not found.
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (3398080 bytes)
+Error loading studio model "models/props_furniture/lights_overhead.mdl"!
+Error loading studio model "models/props_furniture/ceiling_lantern1_on.mdl"!
+Error loading studio model "models/mapmodels/barbed_wire.mdl"!
+Error loading studio model "models/props_fortifications/hedgehog_large1.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line1.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line1_tall.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line2_tall.mdl"!
+Error loading studio model "models/props_fortifications/sandbags_line2.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small1_broken.mdl"!
+Error loading studio model "models/props_doors/doorway16_stone.mdl"!
+Error loading studio model "models/props_doors/doorway16_wood.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small3_broken.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small1.mdl"!
+Error loading studio model "models/props_doors/flash_arch1.mdl"!
+Error loading studio model "models/props_doors/flash_arch2.mdl"!
+Error loading studio model "models/props_doors/doorway16_stone_arched.mdl"!
+Error loading studio model "models/props_urban/arch_italian_stone_01.mdl"!
+Error loading studio model "models/props_exteriors/dormer3.mdl"!
+Error loading studio model "models/props_doors/doorframe_06a.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large2_broken.mdl"!
+Error loading studio model "models/props_debris/flash_destroyed_foundation1.mdl"!
+Error loading studio model "models/props_debris/flash_destroyed_foundation2.mdl"!
+Error loading studio model "models/props_debris/flash_destroyed_foundation3.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small4_broken.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small4_destroyed.mdl"!
+Error loading studio model "models/props_exteriors/chimney4.mdl"!
+Error loading studio model "models/props_exteriors/chimneytop_64by24.mdl"!
+Error loading studio model "models/props_exteriors/dormer1.mdl"!
+Error loading studio model "models/props_foliage/hedge_256_128high.mdl"!
+Error loading studio model "models/props_foliage/hedge_128_128high.mdl"!
+Error loading studio model "models/props_exteriors/chimney5.mdl"!
+Error loading studio model "./models/props_doors/doorway16_wood.mdl"!
+Error loading studio model "./models/props_doors/doorway16_stone_arched.mdl"!
+Error loading studio model "models/props_furniture/fireplace2.mdl"!
+Error loading studio model "models/props_furniture/fireplace1.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small3_shuttered.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_small3_closed.mdl"!
+Error loading studio model "models/props_exteriors/chimney1.mdl"!
+Error loading studio model "models/props_windows/ava_church_circular_window.mdl"!
+Error loading studio model "models/props_exteriors/chimney2.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large1_broken.mdl"!
+Error loading studio model "models/props_exteriors/chimneytop_64by48.mdl"!
+Error loading studio model "models/props_exteriors/dormer2.mdl"!
+Error loading studio model "models/props_furniture/piano.mdl"!
+Error loading studio model "models/props_furniture/shelf1.mdl"!
+Error loading studio model "models/props_urban/phonepole1.mdl"!
+Error loading studio model "models/props_urban/phonepole1_stump.mdl"!
+Error loading studio model "models/props_urban/phonepole1_broken.mdl"!
+Error loading studio model "models/props_urban/flash_fence_post.mdl"!
+Error loading studio model "models/props_crates/static_crate_48.mdl"!
+Error loading studio model "models/props_crates/static_crate_40.mdl"!
+Error loading studio model "models/props_crates/static_crate_64.mdl"!
+Error loading studio model "models/props_urban/lights_streetlight01.mdl"!
+Error loading studio model "models/props_skybox/normandy_farmhouse03.mdl"!
+Error loading studio model "models/props_skybox/normandy_farmhouse01.mdl"!
+Error loading studio model "models/props_skybox/normandy_farmhouse04.mdl"!
+Error loading studio model "models/props_urban/normandy_sign_pole1.mdl"!
+Error loading studio model "models/props_urban/normandy_sign_pole2.mdl"!
+Error loading studio model "models/props_windows/windowframe_destroyed2a.mdl"!
+Error loading studio model "models/props_furniture/cupboard1.mdl"!
+Error loading studio model "models/props_furniture/drawer1.mdl"!
+Error loading studio model "models/props_furniture/dresser1.mdl"!
+Error loading studio model "models/props_furniture/lamp1.mdl"!
+Error loading studio model "models/props_urban/flash_fence_planks_16.mdl"!
+Error loading studio model "models/props_urban/flash_fence_planks_8.mdl"!
+Error loading studio model "models/props_urban/flash_fence_planks.mdl"!
+Error loading studio model "models/props_foliage/hedge_128.mdl"!
+Error loading studio model "models/props_foliage/hedge_medium.mdl"!
+Error loading studio model "models/props_vehicles/tiger_tank_wrecked1.mdl"!
+Error loading studio model "models/props_doors/dod_door1.mdl"!
+Error loading studio model "models/props_furniture/bakery_counter1.mdl"!
+Error loading studio model "models/props_furniture/bakery_counter2.mdl"!
+Error loading studio model "models/props_urban/signs_shops_frame01.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large1_closed.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large1_shuttered.mdl"!
+Error loading studio model "models/props_furniture/toilet1.mdl"!
+Error loading studio model "models/props_furniture/sink1.mdl"!
+Error loading studio model "models/props_furniture/bakery_oven.mdl"!
+Error loading studio model "models/props_furniture/bakery_counter3.mdl"!
+Error loading studio model "models/props_exteriors/storefront1.mdl"!
+Error loading studio model "models/props_misc/barn_crane.mdl"!
+Error loading studio model "models/props_exteriors/roofsup192.mdl"!
+Error loading studio model "models/props_furniture/cafe_cabinet1.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large3_broken.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_storefront1.mdl"!
+Error loading studio model "models/props_windows/inset_windowframe_large3.mdl"!
+Error loading studio model "models/props_furniture/cafe_bar1.mdl"!
+Error loading studio model "models/props_furniture/inn_frontdesk1.mdl"!
+Error loading studio model "models/props_furniture/inn_mailbox1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_cabinet1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_countertop1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_oven1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_vent1.mdl"!
+Error loading studio model "models/props_furniture/kitchen_shelf1.mdl"!
+Error loading studio model "models/props_furniture/inn_banister1.mdl"!
+Error loading studio model "models/props_furniture/inn_chandelier1.mdl"!
+Error loading studio model "models/props_debris/flash_inn_roof.mdl"!
+Error loading studio model "models/props_debris/flash_inn_wall.mdl"!
+Error loading studio model "models/props_debris/flash_inn_ceiling.mdl"!
+Error loading studio model "models/props_debris/wall_rubble1.mdl"!
+Error loading studio model "models/props_debris/wall_rubble2.mdl"!
+Error loading studio model "models/props_debris/edge_rubble1.mdl"!
+Error loading studio model "models/props_debris/floor_rubble1.mdl"!
+Error loading studio model "models/props_debris/corner_rubble1.mdl"!
+Error loading studio model "models/props_debris/corner_rubble2.mdl"!
+Error loading studio model "models/props_debris/floor_rubble2.mdl"!
+Error loading studio model "models/props_debris/floor_rubble3.mdl"!
+Error loading studio model "models/props_italian/winerack_small.mdl"!
+Error loading studio model "models/props_exteriors/storefront2.mdl"!
+Error loading studio model "models/props_misc/stables-1.mdl"!
+Error loading studio model "models/props_foliage/hedge_256.mdl"!
+Error loading studio model "models/props_misc/shelf-2.mdl"!
+Error loading studio model "models/props_misc/reins.mdl"!
+Error loading studio model "models/props_misc/saddle-1.mdl"!
+Error loading studio model "models/props_urban/signs_shops_frame02.mdl"!
+Error loading studio model "models/props_urban/signs_shops_frame03.mdl"!
+Error loading studio model "models/props_furniture/cafe_barstool1.mdl"!
+Error loading studio model "models/props_furniture/ceiling_lantern1_off.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4779 texinfos to 2385
+Reduced 366 texdatas to 268 (17184 bytes to 11912)
+Writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\sdk_dod_flash4.bsp
+3 seconds elapsed

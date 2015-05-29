@@ -1,0 +1,194 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\common\team fortress 2\tf\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.vmf
+material "cwroads/roadtexture003" not found.
+Material not found!: CWROADS/ROADTEXTURE003
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "charlitexture/nos2" not found.
+Material not found!: CHARLITEXTURE/NOS2
+material "charlitexture/wheel_3" not found.
+Material not found!: CHARLITEXTURE/WHEEL_3
+material "charlitexture/mario_tiers_1" not found.
+Material not found!: CHARLITEXTURE/MARIO_TIERS_1
+material "cs_havana/white" not found.
+Material not found!: CS_HAVANA/WHITE
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (1200.00 -1088.00 -16011.40) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (177543 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 738 texinfos to 574
+Reduced 33 texdatas to 33 (750 bytes to 750)
+Writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.bsp
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 5
+
+
+
+6 threads
+reading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.bsp
+reading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.prt
+LoadPortals: couldn't read d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.bsp
+No vis information, direct lighting only.
+13687 faces
+40374336 square feet [5813904384.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5334 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  56/1024         2688/49152    ( 5.5%) 
+brushes                423/8192         5076/98304    ( 5.2%) 
+brushsides            2796/65536       22368/524288   ( 4.3%) 
+planes                2324/65536       46480/1310720  ( 3.5%) 
+vertexes             17498/65536      209976/786432   (26.7%) 
+nodes                 7690/65536      246080/2097152  (11.7%) 
+texinfos               574/12288       41328/884736   ( 4.7%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                13687/65536      766472/3670016  (20.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1931/65536      108136/3670016  ( 2.9%) 
+leaves                7747/65536      247904/2097152  (11.8%) 
+leaffaces            14851/65536       29702/131072   (22.7%) 
+leafbrushes           2860/65536        5720/131072   ( 4.4%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            65512/512000     262048/2048000  (12.8%) 
+edges                33883/256000     135532/1024000  (13.2%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            299/32768        2990/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4446/65536        8892/131072   ( 6.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26062264/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       65588/393216   (16.7%) 
+LDR ambient table     7747/65536       30988/262144   (11.8%) 
+HDR ambient table     7747/65536       30988/262144   (11.8%) 
+LDR leaf ambient     12376/65536      346528/1835008  (18.9%) 
+HDR leaf ambient      7747/65536      216916/1835008  (11.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105711/0        ( 0.0%) 
+physics               [variable]      177543/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 30278
+Writing d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.bsp
+45 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.bsp
+No vis information, direct lighting only.
+13687 faces
+40374336 square feet [5813904384.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5421 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  56/1024         2688/49152    ( 5.5%) 
+brushes                423/8192         5076/98304    ( 5.2%) 
+brushsides            2796/65536       22368/524288   ( 4.3%) 
+planes                2324/65536       46480/1310720  ( 3.5%) 
+vertexes             17498/65536      209976/786432   (26.7%) 
+nodes                 7690/65536      246080/2097152  (11.7%) 
+texinfos               574/12288       41328/884736   ( 4.7%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                13687/65536      766472/3670016  (20.9%) 
+hdr faces            13687/65536      766472/3670016  (20.9%) 
+origfaces             1931/65536      108136/3670016  ( 2.9%) 
+leaves                7747/65536      247904/2097152  (11.8%) 
+leaffaces            14851/65536       29702/131072   (22.7%) 
+leafbrushes           2860/65536        5720/131072   ( 4.4%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            65512/512000     262048/2048000  (12.8%) 
+edges                33883/256000     135532/1024000  (13.2%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          9/8192          792/720896   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            299/32768        2990/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4446/65536        8892/131072   ( 6.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    26062264/0        ( 0.0%) 
+HDR lightdata         [variable]    26062264/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       65588/393216   (16.7%) 
+LDR ambient table     7747/65536       30988/262144   (11.8%) 
+HDR ambient table     7747/65536       30988/262144   (11.8%) 
+LDR leaf ambient     12376/65536      346528/1835008  (18.9%) 
+HDR leaf ambient     22719/65536      636132/1835008  (34.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105711/0        ( 0.0%) 
+physics               [variable]      177543/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 30278
+Writing d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bigmap6_3_ctf5_cp5_3.bsp
+47 seconds elapsed

@@ -1,0 +1,826 @@
+
+
+
+materialPath: e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\materials
+Loading E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.vmf
+material "tools/toolsnodraw" not found.
+Material not found!: TOOLS/TOOLSNODRAW
+material "dev/dev_blendmeasure" not found.
+Material not found!: DEV/DEV_BLENDMEASURE
+material "vgui/screens/vgui_button_hover" not found.
+Material not found!: VGUI/SCREENS/VGUI_BUTTON_HOVER
+material "tools/toolsskip" not found.
+Material not found!: TOOLS/TOOLSSKIP
+material "tools/toolshint" not found.
+Material not found!: TOOLS/TOOLSHINT
+material "halflife/generic015p" not found.
+Material not found!: HALFLIFE/GENERIC015P
+material "wood/woodwall043a" not found.
+Material not found!: WOOD/WOODWALL043A
+material "metal/citadel_tilefloor016a" not found.
+Material not found!: METAL/CITADEL_TILEFLOOR016A
+material "vehicle/rubbertrainfloor001a" not found.
+Material not found!: VEHICLE/RUBBERTRAINFLOOR001A
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/citadel_tilefloor016a_cheap_-1016_-167_-6676.vtf": cached version doesn't exist
+material "brick/brickwall053a" not found.
+Material not found!: BRICK/BRICKWALL053A
+material "dev/dev_prisontvoverlay002" not found.
+Material not found!: DEV/DEV_PRISONTVOVERLAY002
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/metal_gibs_289_183_-1898.vtf": cached version doesn't exist
+material "dev/dev_waterbeneath2" not found.
+Material not found!: DEV/DEV_WATERBENEATH2
+material "dev/reflectivity_90b" not found.
+Material not found!: DEV/REFLECTIVITY_90B
+material "metal/metalfence007a" not found.
+Material not found!: METAL/METALFENCE007A
+material "metal/metalcombinegrate001a" not found.
+Material not found!: METAL/METALCOMBINEGRATE001A
+material "stone/stonewall006a" not found.
+Material not found!: STONE/STONEWALL006A
+material "tools/toolsinvisibleladder" not found.
+Material not found!: TOOLS/TOOLSINVISIBLELADDER
+material "halflife/generic027" not found.
+Material not found!: HALFLIFE/GENERIC027
+material "metal/metalpipe010a" not found.
+Material not found!: METAL/METALPIPE010A
+material "brick/brickwall009a" not found.
+Material not found!: BRICK/BRICKWALL009A
+material "tools/toolstrigger" not found.
+Material not found!: TOOLS/TOOLSTRIGGER
+material "props/signcaution002a" not found.
+Material not found!: PROPS/SIGNCAUTION002A
+material "building_template/building_template002h" not found.
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE002H
+material "dev/reflectivity_70" not found.
+Material not found!: DEV/REFLECTIVITY_70
+material "dev/dev_measurewall01a" not found.
+Material not found!: DEV/DEV_MEASUREWALL01A
+material "dev/dev_bumptest" not found.
+Material not found!: DEV/DEV_BUMPTEST
+material "props/hazardstrip001a" not found.
+Material not found!: PROPS/HAZARDSTRIP001A
+material "dev/dev_lowermetaldoor02a" not found.
+Material not found!: DEV/DEV_LOWERMETALDOOR02A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_day01_01rt" not found.
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70634 bytes)
+Error loading studio model "models/props_c17/gaspipes001a.mdl"!
+Error loading studio model "models/props_buildings/watertower_002a.mdl"!
+Error! To use model "models/turbine/turbine6.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/turbine/turbine6.mdl"!
+Error loading studio model ""!
+Error loading studio model "models/props_c17/metalladder001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 284 texinfos to 207
+Reduced 45 texdatas to 43 (1184 bytes to 1141)
+Writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+3 seconds elapsed
+
+
+
+8 threads
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.prt
+ 271 portalclusters
+ 770 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 157 visible clusters (0.00%)
+Total clusters visible: 29912
+Average clusters visible: 110
+Building PAS...
+Average clusters audible: 184
+visdatasize:17295  compressed from 21680
+writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+1650 faces
+1118157 square feet [161014704.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1650 patches before subdivision
+80332 patches after subdivision
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13244851, max 532
+transfer lists: 101.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(40789, 31936, 26039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6760, 3584, 2137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1330, 457, 190)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(284, 63, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(62, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(14, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2700 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                182/8192         2184/98304    ( 2.2%) 
+brushsides            1155/65536        9240/524288   ( 1.8%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              2267/65536       27204/786432   ( 3.5%) 
+nodes                  826/65536       26432/2097152  ( 1.3%) 
+texinfos               207/12288       14904/884736   ( 1.7%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1650/65536       92400/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              546/65536       30576/3670016  ( 0.8%) 
+leaves                 857/65536       27424/2097152  ( 1.3%) 
+leaffaces             1983/65536        3966/131072   ( 3.0%) 
+leafbrushes            490/65536         980/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             9482/512000      37928/2048000  ( 1.9%) 
+edges                 5120/256000      20480/1024000  ( 2.0%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             70/32768         700/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1092/65536        2184/131072   ( 1.7%) 
+cubemapsamples           7/1024          112/16384    ( 0.7%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2878368/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17295/16777216 ( 0.1%) 
+entdata               [variable]       58941/393216   (15.0%) 
+LDR ambient table      857/65536        3428/262144   ( 1.3%) 
+HDR ambient table      857/65536        3428/262144   ( 1.3%) 
+LDR leaf ambient      3007/65536       84196/1835008  ( 4.6%) 
+HDR leaf ambient       857/65536       23996/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2108     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70634/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4000
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+1650 faces
+1118157 square feet [161014704.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1650 patches before subdivision
+80332 patches after subdivision
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13244851, max 532
+transfer lists: 101.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(207492, 182893, 24553)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(19691, 15496, 2014)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2464, 1514, 179)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(379, 153, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(70, 17, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2543 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                182/8192         2184/98304    ( 2.2%) 
+brushsides            1155/65536        9240/524288   ( 1.8%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              2267/65536       27204/786432   ( 3.5%) 
+nodes                  826/65536       26432/2097152  ( 1.3%) 
+texinfos               207/12288       14904/884736   ( 1.7%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1650/65536       92400/3670016  ( 2.5%) 
+hdr faces             1650/65536       92400/3670016  ( 2.5%) 
+origfaces              546/65536       30576/3670016  ( 0.8%) 
+leaves                 857/65536       27424/2097152  ( 1.3%) 
+leaffaces             1983/65536        3966/131072   ( 3.0%) 
+leafbrushes            490/65536         980/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             9482/512000      37928/2048000  ( 1.9%) 
+edges                 5120/256000      20480/1024000  ( 2.0%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights         43/8192         3784/720896   ( 0.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             70/32768         700/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1092/65536        2184/131072   ( 1.7%) 
+cubemapsamples           7/1024          112/16384    ( 0.7%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2878368/0        ( 0.0%) 
+HDR lightdata         [variable]     2878368/0        ( 0.0%) 
+visdata               [variable]       17295/16777216 ( 0.1%) 
+entdata               [variable]       58941/393216   (15.0%) 
+LDR ambient table      857/65536        3428/262144   ( 1.3%) 
+HDR ambient table      857/65536        3428/262144   ( 1.3%) 
+LDR leaf ambient      3007/65536       84196/1835008  ( 4.6%) 
+HDR leaf ambient      3385/65536       94780/1835008  ( 5.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2108     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70634/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4000
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+28 seconds elapsed
+
+
+
+materialPath: e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\materials
+Loading E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.vmf
+material "tools/toolsnodraw" not found.
+Material not found!: TOOLS/TOOLSNODRAW
+material "dev/dev_blendmeasure" not found.
+Material not found!: DEV/DEV_BLENDMEASURE
+material "vgui/screens/vgui_button_hover" not found.
+Material not found!: VGUI/SCREENS/VGUI_BUTTON_HOVER
+material "halflife/generic015p" not found.
+Material not found!: HALFLIFE/GENERIC015P
+material "wood/woodwall043a" not found.
+Material not found!: WOOD/WOODWALL043A
+material "metal/citadel_tilefloor016a" not found.
+Material not found!: METAL/CITADEL_TILEFLOOR016A
+material "vehicle/rubbertrainfloor001a" not found.
+Material not found!: VEHICLE/RUBBERTRAINFLOOR001A
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/citadel_tilefloor016a_cheap_-1016_-167_-6676.vtf": cached version doesn't exist
+material "brick/brickwall053a" not found.
+Material not found!: BRICK/BRICKWALL053A
+material "dev/dev_prisontvoverlay002" not found.
+Material not found!: DEV/DEV_PRISONTVOVERLAY002
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/metal_gibs_289_183_-1898.vtf": cached version doesn't exist
+material "dev/dev_waterbeneath2" not found.
+Material not found!: DEV/DEV_WATERBENEATH2
+material "dev/reflectivity_90b" not found.
+Material not found!: DEV/REFLECTIVITY_90B
+material "metal/metalfence007a" not found.
+Material not found!: METAL/METALFENCE007A
+material "metal/metalcombinegrate001a" not found.
+Material not found!: METAL/METALCOMBINEGRATE001A
+material "stone/stonewall006a" not found.
+Material not found!: STONE/STONEWALL006A
+material "tools/toolsinvisibleladder" not found.
+Material not found!: TOOLS/TOOLSINVISIBLELADDER
+material "halflife/generic027" not found.
+Material not found!: HALFLIFE/GENERIC027
+material "metal/metalpipe010a" not found.
+Material not found!: METAL/METALPIPE010A
+material "brick/brickwall009a" not found.
+Material not found!: BRICK/BRICKWALL009A
+material "tools/toolstrigger" not found.
+Material not found!: TOOLS/TOOLSTRIGGER
+material "props/signcaution002a" not found.
+Material not found!: PROPS/SIGNCAUTION002A
+material "building_template/building_template002h" not found.
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE002H
+material "dev/reflectivity_70" not found.
+Material not found!: DEV/REFLECTIVITY_70
+material "dev/dev_measurewall01a" not found.
+Material not found!: DEV/DEV_MEASUREWALL01A
+material "dev/dev_bumptest" not found.
+Material not found!: DEV/DEV_BUMPTEST
+material "props/hazardstrip001a" not found.
+Material not found!: PROPS/HAZARDSTRIP001A
+material "dev/dev_lowermetaldoor02a" not found.
+Material not found!: DEV/DEV_LOWERMETALDOOR02A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_day01_01rt" not found.
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (70242 bytes)
+Error loading studio model "models/props_c17/gaspipes001a.mdl"!
+Error loading studio model "models/props_buildings/watertower_002a.mdl"!
+Error! To use model "models/turbine/turbine6.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/turbine/turbine6.mdl"!
+Error loading studio model ""!
+Error loading studio model "models/props_c17/metalladder001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 280 texinfos to 205
+Reduced 43 texdatas to 41 (1152 bytes to 1109)
+Writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+3 seconds elapsed
+
+
+
+8 threads
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.prt
+ 270 portalclusters
+ 770 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 188 visible clusters (0.00%)
+Total clusters visible: 30242
+Average clusters visible: 112
+Building PAS...
+Average clusters audible: 200
+visdatasize:17853  compressed from 21600
+writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+1644 faces
+1118100 square feet [161006512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1644 patches before subdivision
+80326 patches after subdivision
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13248791, max 532
+transfer lists: 101.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(40795, 31940, 26042)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6765, 3587, 2138)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1332, 458, 191)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(284, 63, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(62, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(14, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2677 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                181/8192         2172/98304    ( 2.2%) 
+brushsides            1149/65536        9192/524288   ( 1.8%) 
+planes                 756/65536       15120/1310720  ( 1.2%) 
+vertexes              2255/65536       27060/786432   ( 3.4%) 
+nodes                  824/65536       26368/2097152  ( 1.3%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1644/65536       92064/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              544/65536       30464/3670016  ( 0.8%) 
+leaves                 855/65536       27360/2097152  ( 1.3%) 
+leaffaces             1977/65536        3954/131072   ( 3.0%) 
+leafbrushes            489/65536         978/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9450/512000      37800/2048000  ( 1.8%) 
+edges                 5100/256000      20400/1024000  ( 2.0%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             70/32768         700/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1092/65536        2184/131072   ( 1.7%) 
+cubemapsamples           7/1024          112/16384    ( 0.7%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2878368/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17853/16777216 ( 0.1%) 
+entdata               [variable]       58941/393216   (15.0%) 
+LDR ambient table      855/65536        3420/262144   ( 1.3%) 
+HDR ambient table      855/65536        3420/262144   ( 1.3%) 
+LDR leaf ambient      3007/65536       84196/1835008  ( 4.6%) 
+HDR leaf ambient       855/65536       23940/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2108     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70242/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3988
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+1644 faces
+1118100 square feet [161006512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1644 patches before subdivision
+80326 patches after subdivision
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13248791, max 532
+transfer lists: 101.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(207500, 182899, 24557)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(19697, 15498, 2015)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2466, 1515, 179)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(379, 153, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(71, 17, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2504 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                181/8192         2172/98304    ( 2.2%) 
+brushsides            1149/65536        9192/524288   ( 1.8%) 
+planes                 756/65536       15120/1310720  ( 1.2%) 
+vertexes              2255/65536       27060/786432   ( 3.4%) 
+nodes                  824/65536       26368/2097152  ( 1.3%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1644/65536       92064/3670016  ( 2.5%) 
+hdr faces             1644/65536       92064/3670016  ( 2.5%) 
+origfaces              544/65536       30464/3670016  ( 0.8%) 
+leaves                 855/65536       27360/2097152  ( 1.3%) 
+leaffaces             1977/65536        3954/131072   ( 3.0%) 
+leafbrushes            489/65536         978/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9450/512000      37800/2048000  ( 1.8%) 
+edges                 5100/256000      20400/1024000  ( 2.0%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights         43/8192         3784/720896   ( 0.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             70/32768         700/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1092/65536        2184/131072   ( 1.7%) 
+cubemapsamples           7/1024          112/16384    ( 0.7%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2878368/0        ( 0.0%) 
+HDR lightdata         [variable]     2878368/0        ( 0.0%) 
+visdata               [variable]       17853/16777216 ( 0.1%) 
+entdata               [variable]       58941/393216   (15.0%) 
+LDR ambient table      855/65536        3420/262144   ( 1.3%) 
+HDR ambient table      855/65536        3420/262144   ( 1.3%) 
+LDR leaf ambient      3007/65536       84196/1835008  ( 4.6%) 
+HDR leaf ambient      3374/65536       94472/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2108     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70242/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3988
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+28 seconds elapsed
+
+
+
+materialPath: e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\materials
+Loading E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.vmf
+material "tools/toolsnodraw" not found.
+Material not found!: TOOLS/TOOLSNODRAW
+material "dev/dev_blendmeasure" not found.
+Material not found!: DEV/DEV_BLENDMEASURE
+material "vgui/screens/vgui_button_hover" not found.
+Material not found!: VGUI/SCREENS/VGUI_BUTTON_HOVER
+material "halflife/generic015p" not found.
+Material not found!: HALFLIFE/GENERIC015P
+material "wood/woodwall043a" not found.
+Material not found!: WOOD/WOODWALL043A
+material "metal/citadel_tilefloor016a" not found.
+Material not found!: METAL/CITADEL_TILEFLOOR016A
+material "vehicle/rubbertrainfloor001a" not found.
+Material not found!: VEHICLE/RUBBERTRAINFLOOR001A
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+Failed to load $include VMT file (materials/METAL/CITADEL_TILEFLOOR016A_CHEAP.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/citadel_tilefloor016a_cheap_-1016_-167_-6676.vtf": cached version doesn't exist
+material "brick/brickwall053a" not found.
+Material not found!: BRICK/BRICKWALL053A
+material "dev/dev_prisontvoverlay002" not found.
+Material not found!: DEV/DEV_PRISONTVOVERLAY002
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+Failed to load $include VMT file (materials/MODELS/GIBS/METALGIBS/METAL_GIBS.vmt)
+"materials/maps/dm_stargate_atlantis_b3-2/metal_gibs_289_183_-1898.vtf": cached version doesn't exist
+material "dev/dev_waterbeneath2" not found.
+Material not found!: DEV/DEV_WATERBENEATH2
+material "dev/reflectivity_90b" not found.
+Material not found!: DEV/REFLECTIVITY_90B
+material "metal/metalfence007a" not found.
+Material not found!: METAL/METALFENCE007A
+material "metal/metalcombinegrate001a" not found.
+Material not found!: METAL/METALCOMBINEGRATE001A
+material "stone/stonewall006a" not found.
+Material not found!: STONE/STONEWALL006A
+material "tools/toolsinvisibleladder" not found.
+Material not found!: TOOLS/TOOLSINVISIBLELADDER
+material "halflife/generic027" not found.
+Material not found!: HALFLIFE/GENERIC027
+material "metal/metalpipe010a" not found.
+Material not found!: METAL/METALPIPE010A
+material "brick/brickwall009a" not found.
+Material not found!: BRICK/BRICKWALL009A
+material "tools/toolstrigger" not found.
+Material not found!: TOOLS/TOOLSTRIGGER
+material "props/signcaution002a" not found.
+Material not found!: PROPS/SIGNCAUTION002A
+material "building_template/building_template002h" not found.
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE002H
+material "dev/reflectivity_70" not found.
+Material not found!: DEV/REFLECTIVITY_70
+material "dev/dev_measurewall01a" not found.
+Material not found!: DEV/DEV_MEASUREWALL01A
+material "dev/dev_bumptest" not found.
+Material not found!: DEV/DEV_BUMPTEST
+material "props/hazardstrip001a" not found.
+Material not found!: PROPS/HAZARDSTRIP001A
+material "dev/dev_lowermetaldoor02a" not found.
+Material not found!: DEV/DEV_LOWERMETALDOOR02A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_day01_01rt" not found.
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (70242 bytes)
+Error loading studio model "models/props_c17/gaspipes001a.mdl"!
+Error loading studio model "models/props_buildings/watertower_002a.mdl"!
+Error loading studio model ""!
+Error loading studio model "models/props_c17/metalladder001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 280 texinfos to 205
+Reduced 43 texdatas to 41 (1152 bytes to 1109)
+Writing E:\Program Files (x86)\Steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+3 seconds elapsed
+
+
+
+8 threads
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+reading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.prt
+ 270 portalclusters
+ 770 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 184 visible clusters (0.00%)
+Total clusters visible: 30238
+Average clusters visible: 111
+Building PAS...
+Average clusters audible: 200
+visdatasize:17853  compressed from 21600
+writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+1644 faces
+1118100 square feet [161006512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1644 patches before subdivision
+80326 patches after subdivision
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13248791, max 532
+transfer lists: 101.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(40795, 31940, 26042)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(6765, 3587, 2138)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1332, 458, 191)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(284, 63, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(62, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(14, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2673 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                181/8192         2172/98304    ( 2.2%) 
+brushsides            1149/65536        9192/524288   ( 1.8%) 
+planes                 756/65536       15120/1310720  ( 1.2%) 
+vertexes              2255/65536       27060/786432   ( 3.4%) 
+nodes                  824/65536       26368/2097152  ( 1.3%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1644/65536       92064/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              544/65536       30464/3670016  ( 0.8%) 
+leaves                 855/65536       27360/2097152  ( 1.3%) 
+leaffaces             1977/65536        3954/131072   ( 3.0%) 
+leafbrushes            489/65536         978/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9450/512000      37800/2048000  ( 1.8%) 
+edges                 5100/256000      20400/1024000  ( 2.0%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             70/32768         700/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1092/65536        2184/131072   ( 1.7%) 
+cubemapsamples           7/1024          112/16384    ( 0.7%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2878368/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       17853/16777216 ( 0.1%) 
+entdata               [variable]       62571/393216   (15.9%) 
+LDR ambient table      855/65536        3420/262144   ( 1.3%) 
+HDR ambient table      855/65536        3420/262144   ( 1.3%) 
+LDR leaf ambient      3007/65536       84196/1835008  ( 4.6%) 
+HDR leaf ambient       855/65536       23940/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2108     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70242/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3988
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+1644 faces
+1118100 square feet [161006512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1644 patches before subdivision
+80326 patches after subdivision
+43 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13248791, max 532
+transfer lists: 101.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(207500, 182899, 24557)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(19697, 15498, 2015)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2466, 1515, 179)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(379, 153, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(71, 17, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2588 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  30/1024         1440/49152    ( 2.9%) 
+brushes                181/8192         2172/98304    ( 2.2%) 
+brushsides            1149/65536        9192/524288   ( 1.8%) 
+planes                 756/65536       15120/1310720  ( 1.2%) 
+vertexes              2255/65536       27060/786432   ( 3.4%) 
+nodes                  824/65536       26368/2097152  ( 1.3%) 
+texinfos               205/12288       14760/884736   ( 1.7%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1644/65536       92064/3670016  ( 2.5%) 
+hdr faces             1644/65536       92064/3670016  ( 2.5%) 
+origfaces              544/65536       30464/3670016  ( 0.8%) 
+leaves                 855/65536       27360/2097152  ( 1.3%) 
+leaffaces             1977/65536        3954/131072   ( 3.0%) 
+leafbrushes            489/65536         978/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9450/512000      37800/2048000  ( 1.8%) 
+edges                 5100/256000      20400/1024000  ( 2.0%) 
+LDR worldlights         43/8192         3784/720896   ( 0.5%) 
+HDR worldlights         43/8192         3784/720896   ( 0.5%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             70/32768         700/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1092/65536        2184/131072   ( 1.7%) 
+cubemapsamples           7/1024          112/16384    ( 0.7%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2878368/0        ( 0.0%) 
+HDR lightdata         [variable]     2878368/0        ( 0.0%) 
+visdata               [variable]       17853/16777216 ( 0.1%) 
+entdata               [variable]       62571/393216   (15.9%) 
+LDR ambient table      855/65536        3420/262144   ( 1.3%) 
+HDR ambient table      855/65536        3420/262144   ( 1.3%) 
+LDR leaf ambient      3007/65536       84196/1835008  ( 4.6%) 
+HDR leaf ambient      3374/65536       94472/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2108     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       70242/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3988
+Writing e:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf\devmaps\dangermap9_za3.bsp
+28 seconds elapsed

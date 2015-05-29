@@ -1,0 +1,81 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\Crimewars2013\materials
+Loading D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge46.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge46.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (721094 bytes)
+Error loading studio model ""!
+Error! prop_static using model "models/props_cans/barqcan1a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_cans/barqcan1a.mdl"!
+Error! prop_static using model "models/props_silo/barrelwarning.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_silo/barrelwarning.mdl"!
+Error! prop_static using model "models/props_interiors/vendingmachinesoda01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/vendingmachinesoda01a.mdl"!
+Error! To use model "models/foodnhouseholditems/mcdburgerboxempty.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/foodnhouseholditems/mcdburgerboxempty.mdl"!
+Error! To use model "models/bgb17.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/bgb17.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_monitor.mdl"!
+Error! prop_static using model "models/props/cs_office/sierramist01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/sierramist01.mdl"!
+Error! To use model "models/foodnhouseholditems/toffifee.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/foodnhouseholditems/toffifee.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1262 texinfos to 976
+Reduced 24 texdatas to 24 (572 bytes to 572)
+Writing D:\Program Files (x86)\Steam\SteamApps\sourcemods\crimewarswtf5\devmaps\bridge46.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bridge46.bsp
+reading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bridge46.prt
+2353 portalclusters
+5280 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\Program Files (x86)\Steam\SteamApps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading d:\program files (x86)\steam\steamapps\sourcemods\crimewarswtf5\devmaps\bridge46.bsp
+No vis information, direct lighting only.
+17450 faces
+1 degenerate faces
+39410348 square feet [5675089920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5140 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0.
